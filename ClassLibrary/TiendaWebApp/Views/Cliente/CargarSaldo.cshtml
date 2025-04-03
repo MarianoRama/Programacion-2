@@ -1,0 +1,26 @@
+﻿@using LogicaNegocio;
+@model Cliente;
+
+<h1>Cargar saldo</h1>
+
+@if (ViewBag.successMessage != null)
+{
+    <div class="alert alert-success">
+        @ViewBag.successMessage
+    </div>
+}
+@if (ViewBag.Mensaje != null)
+{
+    <div class="alert alert-danger">
+        @ViewBag.Mensaje
+    </div>
+}
+
+<form method="post">
+    <div data-mdb-input-init class="form-outline form-white mb-4">
+        <label for="Saldo">Saldo a cargar</label>
+        <input type="number" class="form-control" name="Saldo" id="Saldo" placeholder="Ingresar saldo a cargar">
+    </div>
+
+    <button data-mdb-button-init data-mdb-ripple-init class="btn btn-primary px-5" type="submit">Depositar</button>
+</form>

@@ -1,0 +1,53 @@
+﻿@using LogicaNegocio
+@model List<Publicacion>
+
+<h4>Publicaciones</h4>
+
+@if (ViewBag.successMessage != null)
+{
+    <div class="alert alert-success">
+        @ViewBag.successMessage
+    </div>
+}
+@if (ViewBag.Mensaje != null)
+{
+    <div class="alert alert-danger">
+        @ViewBag.Mensaje
+    </div>
+}
+
+<table class="table table-hover table-dark">
+    <thead>
+        <tr>
+            <th scope="col">Estado</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Precio</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Publicacion publicacion in Model)
+        {
+            <tr>
+                <th scope="row">@publicacion.Estado</th>
+                <td>@publicacion.Nombre</td>
+                <td>$@publicacion.CalcularPrecioFinal()</td>
+                @if (publicacion.Estado == Estado.ABIERTA)
+                {
+                    @if (publicacion is Subasta)
+                    {
+                        <td><a href="~/Publicacion/Ofertar/@publicacion.Id"><button class="btn btn-primary">@publicacion.Id Subastar</button></a></td>
+                    }
+                    @if (publicacion is Venta)
+                    {
+                        <td><a href="~/Publicacion/Comprar/@publicacion.Id"><button class="btn btn-primary">Comprar</button></a></td> 
+                    }
+                }
+                else 
+                {
+                    <td></td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>

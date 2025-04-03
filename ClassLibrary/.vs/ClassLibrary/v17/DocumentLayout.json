@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive\\Desktop\\facu 2\\Obl2_P2_Tapari_Rama_M2F1221\\Obl2_P2_Tapari_Rama_M2F\\ClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A952FCED-A248-41C9-88AC-0F1AC1DC721C}|TiendaWebApp\\TiendaWebApp.csproj|c:\\users\\maria\\onedrive\\desktop\\facu 2\\obl2_p2_tapari_rama_m2f1221\\obl2_p2_tapari_rama_m2f\\classlibrary\\tiendawebapp\\controllers\\publicacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A952FCED-A248-41C9-88AC-0F1AC1DC721C}|TiendaWebApp\\TiendaWebApp.csproj|solutionrelative:tiendawebapp\\controllers\\publicacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA7113D-31A9-4C99-896B-9D147FE3F18D}|ClassLibrary\\LogicaNegocio.csproj|c:\\users\\maria\\onedrive\\desktop\\facu 2\\obl2_p2_tapari_rama_m2f1221\\obl2_p2_tapari_rama_m2f\\classlibrary\\classlibrary\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA7113D-31A9-4C99-896B-9D147FE3F18D}|ClassLibrary\\LogicaNegocio.csproj|solutionrelative:classlibrary\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA7113D-31A9-4C99-896B-9D147FE3F18D}|ClassLibrary\\LogicaNegocio.csproj|c:\\users\\maria\\onedrive\\desktop\\facu 2\\obl2_p2_tapari_rama_m2f1221\\obl2_p2_tapari_rama_m2f\\classlibrary\\classlibrary\\subasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA7113D-31A9-4C99-896B-9D147FE3F18D}|ClassLibrary\\LogicaNegocio.csproj|solutionrelative:classlibrary\\subasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA7113D-31A9-4C99-896B-9D147FE3F18D}|ClassLibrary\\LogicaNegocio.csproj|c:\\users\\maria\\onedrive\\desktop\\facu 2\\obl2_p2_tapari_rama_m2f1221\\obl2_p2_tapari_rama_m2f\\classlibrary\\classlibrary\\publicaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA7113D-31A9-4C99-896B-9D147FE3F18D}|ClassLibrary\\LogicaNegocio.csproj|solutionrelative:classlibrary\\publicaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A952FCED-A248-41C9-88AC-0F1AC1DC721C}|TiendaWebApp\\TiendaWebApp.csproj|c:\\users\\maria\\onedrive\\desktop\\facu 2\\obl2_p2_tapari_rama_m2f1221\\obl2_p2_tapari_rama_m2f\\classlibrary\\tiendawebapp\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A952FCED-A248-41C9-88AC-0F1AC1DC721C}|TiendaWebApp\\TiendaWebApp.csproj|solutionrelative:tiendawebapp\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA7113D-31A9-4C99-896B-9D147FE3F18D}|ClassLibrary\\LogicaNegocio.csproj|c:\\users\\maria\\onedrive\\desktop\\facu 2\\obl2_p2_tapari_rama_m2f1221\\obl2_p2_tapari_rama_m2f\\classlibrary\\classlibrary\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA7113D-31A9-4C99-896B-9D147FE3F18D}|ClassLibrary\\LogicaNegocio.csproj|solutionrelative:classlibrary\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA7113D-31A9-4C99-896B-9D147FE3F18D}|ClassLibrary\\LogicaNegocio.csproj|c:\\users\\maria\\onedrive\\desktop\\facu 2\\obl2_p2_tapari_rama_m2f1221\\obl2_p2_tapari_rama_m2f\\classlibrary\\classlibrary\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA7113D-31A9-4C99-896B-9D147FE3F18D}|ClassLibrary\\LogicaNegocio.csproj|solutionrelative:classlibrary\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\facu 2\\Obl2_P2_Tapari_Rama_M2F1221\\Obl2_P2_Tapari_Rama_M2F\\ClassLibrary\\ClassLibrary\\Sistema.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Sistema.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\facu 2\\Obl2_P2_Tapari_Rama_M2F1221\\Obl2_P2_Tapari_Rama_M2F\\ClassLibrary\\ClassLibrary\\Sistema.cs",
+              "RelativeToolTip": "ClassLibrary\\Sistema.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAUwHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:18:42.986Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TiendaController.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\facu 2\\Obl2_P2_Tapari_Rama_M2F1221\\Obl2_P2_Tapari_Rama_M2F\\ClassLibrary\\TiendaWebApp\\Controllers\\TiendaController.cs",
+              "RelativeDocumentMoniker": "TiendaWebApp\\Controllers\\TiendaController.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\facu 2\\Obl2_P2_Tapari_Rama_M2F1221\\Obl2_P2_Tapari_Rama_M2F\\ClassLibrary\\TiendaWebApp\\Controllers\\TiendaController.cs",
+              "RelativeToolTip": "TiendaWebApp\\Controllers\\TiendaController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:59:43.785Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublicacionController.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\facu 2\\Obl2_P2_Tapari_Rama_M2F1221\\Obl2_P2_Tapari_Rama_M2F\\ClassLibrary\\TiendaWebApp\\Controllers\\PublicacionController.cs",
+              "RelativeDocumentMoniker": "TiendaWebApp\\Controllers\\PublicacionController.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\facu 2\\Obl2_P2_Tapari_Rama_M2F1221\\Obl2_P2_Tapari_Rama_M2F\\ClassLibrary\\TiendaWebApp\\Controllers\\PublicacionController.cs",
+              "RelativeToolTip": "TiendaWebApp\\Controllers\\PublicacionController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:01:51.284Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Publicaci\u00F3n.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\facu 2\\Obl2_P2_Tapari_Rama_M2F1221\\Obl2_P2_Tapari_Rama_M2F\\ClassLibrary\\ClassLibrary\\Publicaci\u00F3n.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Publicaci\u00F3n.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\facu 2\\Obl2_P2_Tapari_Rama_M2F1221\\Obl2_P2_Tapari_Rama_M2F\\ClassLibrary\\ClassLibrary\\Publicaci\u00F3n.cs",
+              "RelativeToolTip": "ClassLibrary\\Publicaci\u00F3n.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAiwHcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:53:54.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\facu 2\\Obl2_P2_Tapari_Rama_M2F1221\\Obl2_P2_Tapari_Rama_M2F\\ClassLibrary\\ClassLibrary\\Venta.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Venta.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\facu 2\\Obl2_P2_Tapari_Rama_M2F1221\\Obl2_P2_Tapari_Rama_M2F\\ClassLibrary\\ClassLibrary\\Venta.cs",
+              "RelativeToolTip": "ClassLibrary\\Venta.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:47:38.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subasta.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\facu 2\\Obl2_P2_Tapari_Rama_M2F1221\\Obl2_P2_Tapari_Rama_M2F\\ClassLibrary\\ClassLibrary\\Subasta.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Subasta.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\facu 2\\Obl2_P2_Tapari_Rama_M2F1221\\Obl2_P2_Tapari_Rama_M2F\\ClassLibrary\\ClassLibrary\\Subasta.cs",
+              "RelativeToolTip": "ClassLibrary\\Subasta.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:46:42.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\facu 2\\Obl2_P2_Tapari_Rama_M2F1221\\Obl2_P2_Tapari_Rama_M2F\\ClassLibrary\\ClassLibrary\\Cliente.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Cliente.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\facu 2\\Obl2_P2_Tapari_Rama_M2F1221\\Obl2_P2_Tapari_Rama_M2F\\ClassLibrary\\ClassLibrary\\Cliente.cs",
+              "RelativeToolTip": "ClassLibrary\\Cliente.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:45:03.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

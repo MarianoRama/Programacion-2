@@ -1,0 +1,4 @@
+C:\Users\maria\source\repos\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\maria\source\repos\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Release\net8.0\LogicaNegocio.deps.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Release\net8.0\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Release\net8.0\LogicaNegocio.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Release\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Release\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Release\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Release\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Release\net8.0\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Release\net8.0\refint\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Release\net8.0\LogicaNegocio.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Release\net8.0\ref\LogicaNegocio.dll

@@ -1,0 +1,7 @@
+﻿@if (!string.IsNullOrEmpty(Context.Session.GetString("email")))
+{
+	<h1>¡Bienvenido a nuestra tienda @Context.Session.GetString("nombre")!</h1>
+	<div class="alert alert-info">
+		Esta logueado con el rol de: @Context.Session.GetString("rol").
+	</div>
+}

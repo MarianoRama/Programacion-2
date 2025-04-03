@@ -1,0 +1,20 @@
+﻿@using LogicaNegocio;
+@model Oferta;
+
+<h1>Ofertar</h1>
+
+@if (ViewBag.errorMessage != null)
+{
+    <div class="alert alert-danger">
+        @ViewBag.errorMessage
+    </div>
+}
+
+<form method="post">
+    <div data-mdb-input-init class="form-outline form-white mb-4">
+        <label for="Monto">Monto</label>
+        <input type="text" class="form-control" name="Monto" id="Monto" placeholder="Ingresar monto a ofertar">
+    </div>
+
+    <button data-mdb-button-init data-mdb-ripple-init class="btn btn-primarys px-5" type="submit">Ofertar</button>
+</form>

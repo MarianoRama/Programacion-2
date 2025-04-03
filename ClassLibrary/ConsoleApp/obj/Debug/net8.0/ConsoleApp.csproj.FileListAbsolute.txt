@@ -1,0 +1,90 @@
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

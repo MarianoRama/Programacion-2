@@ -1,0 +1,99 @@
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ClassLibrary\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obligatorio\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ref\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ClassLibrary\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\p2\Obligatorio\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ref\LogicaNegocio.dll
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ClassLibrary\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\valen\P2\25-09-p2\25-09-p2\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ref\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\Programación 2\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ref\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ref\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ref\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ref\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ref\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ref\LogicaNegocio.dll

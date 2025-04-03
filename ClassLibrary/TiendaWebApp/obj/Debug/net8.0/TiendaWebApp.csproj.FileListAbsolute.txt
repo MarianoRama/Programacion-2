@@ -1,0 +1,170 @@
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.staticwebassets.runtime.json
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.exe
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.deps.json
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.runtimeconfig.json
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.dll
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.pdb
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.RazorAssemblyInfo.cache
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.RazorAssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.TiendaWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.TiendaWebApp.props
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TiendaWebApp.props
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TiendaWebApp.props
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\scopedcss\bundle\TiendaWebApp.styles.css
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\scopedcss\projectbundle\TiendaWebApp.bundle.scp.css
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWe.F16F68E1.Up2Date
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.dll
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\refint\TiendaWebApp.dll
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.pdb
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Desktop\p2\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\ref\TiendaWebApp.dll
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.staticwebassets.runtime.json
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.exe
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.deps.json
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.runtimeconfig.json
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.dll
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.pdb
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.RazorAssemblyInfo.cache
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.RazorAssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.TiendaWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.TiendaWebApp.props
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TiendaWebApp.props
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TiendaWebApp.props
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\scopedcss\bundle\TiendaWebApp.styles.css
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\scopedcss\projectbundle\TiendaWebApp.bundle.scp.css
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWe.F16F68E1.Up2Date
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.dll
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\refint\TiendaWebApp.dll
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.pdb
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Desktop\E-191914-0\Obl_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\ref\TiendaWebApp.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.staticwebassets.runtime.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.exe
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.deps.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.runtimeconfig.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.AssemblyInfoInputs.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.AssemblyInfo.cs
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.RazorAssemblyInfo.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.RazorAssemblyInfo.cs
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.TiendaWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.TiendaWebApp.props
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TiendaWebApp.props
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TiendaWebApp.props
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\scopedcss\bundle\TiendaWebApp.styles.css
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\scopedcss\projectbundle\TiendaWebApp.bundle.scp.css
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWe.F16F68E1.Up2Date
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\refint\TiendaWebApp.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.genruntimeconfig.cache
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\ref\TiendaWebApp.dll
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.staticwebassets.runtime.json
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.exe
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.deps.json
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.runtimeconfig.json
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.dll
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.pdb
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.RazorAssemblyInfo.cache
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.RazorAssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.TiendaWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.TiendaWebApp.props
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TiendaWebApp.props
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TiendaWebApp.props
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\scopedcss\bundle\TiendaWebApp.styles.css
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\scopedcss\projectbundle\TiendaWebApp.bundle.scp.css
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWe.F16F68E1.Up2Date
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.dll
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\refint\TiendaWebApp.dll
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.pdb
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Desktop\Obl2_P2_Tapari_Rama_M2F\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\ref\TiendaWebApp.dll
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.staticwebassets.runtime.json
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.exe
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.deps.json
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.runtimeconfig.json
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.dll
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\TiendaWebApp.pdb
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.RazorAssemblyInfo.cache
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.RazorAssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.TiendaWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.TiendaWebApp.props
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TiendaWebApp.props
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TiendaWebApp.props
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\scopedcss\bundle\TiendaWebApp.styles.css
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\scopedcss\projectbundle\TiendaWebApp.bundle.scp.css
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWe.F16F68E1.Up2Date
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.dll
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\refint\TiendaWebApp.dll
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.pdb
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\TiendaWebApp.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Desktop\facu 2\Obl2_P2_Tapari_Rama_M2F1221\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Debug\net8.0\ref\TiendaWebApp.dll

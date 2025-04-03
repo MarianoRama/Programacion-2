@@ -1,0 +1,9 @@
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Release\net8.0\PubTmp\Out\TiendaWebApp.exe
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Release\net8.0\PubTmp\Out\TiendaWebApp.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Release\net8.0\PubTmp\Out\TiendaWebApp.deps.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Release\net8.0\PubTmp\Out\TiendaWebApp.runtimeconfig.json
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Release\net8.0\PubTmp\Out\TiendaWebApp.pdb
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Release\net8.0\PubTmp\Out\LogicaNegocio.dll
+C:\Users\valen\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Desktop\P2\Obl2_P2_Tapari_Rama_M2F\ClassLibrary\TiendaWebApp\obj\Release\net8.0\PubTmp\Out\LogicaNegocio.pdb
